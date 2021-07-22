@@ -1,9 +1,9 @@
 Hi
 Ankit Singh
-<<<<<<< HEAD
+
+
 Delta will fuck You
 
 
-=======
-Delta has mutated
->>>>>>> parent of 43c90da (Merge branch 'main' into delta)
+
+

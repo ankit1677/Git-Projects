@@ -3,9 +3,10 @@ Tomy
 ----------------
 ----------------
 
-A | B
-Ankit | Sanchit
-
++ Ankit 
++ Sanchit
+ Ankit | Sanchit
+ 
 
 
 
